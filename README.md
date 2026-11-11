@@ -4,7 +4,6 @@
 
 **Curso:** Herramientas básicas para el análisis de datos
 
-
 ---
 
 ## Objetivo
