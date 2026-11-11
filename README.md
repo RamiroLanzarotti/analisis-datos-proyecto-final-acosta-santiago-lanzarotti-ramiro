@@ -4,6 +4,7 @@
 
 **Curso:** Herramientas básicas para el análisis de datos
 
+
 ---
 
 ## Objetivo
@@ -22,12 +23,13 @@ Copia local: [`data/raw/dataset_ventas_lacteos_2024.csv`](data/raw/dataset_venta
 
 ## Pasos realizados
 
-1. **Exploración y limpieza en Python** ([ver notebook](https://nbviewer.org/github/RamiroLanzarotti/analisis-datos-proyecto-final-acosta-santiago-lanzarotti-ramiro/blob/main/notebooks/analisis-ventas-lacteos-2024.ipynb)): revisión de tipos, nulos y duplicados, conversión de fechas y renombrado de columnas con Pandas.
+1. **Exploración y limpieza en Python** ([ver notebook](https://nbviewer.org/github/RamiroLanzarotti/analisis-datos-proyecto-final-acosta-santiago-lanzarotti-ramiro/blob/main/notebooks/analisis-de-ventas-lacteos-2024.ipynb)): revisión de tipos, nulos y duplicados, conversión de fechas y renombrado de columnas con Pandas.
 2. **Análisis** de ventas y facturación por estado, ciudad, mes, vendedor, categoría y producto, con gráficos en Matplotlib.
-3. **Dashboard en Power BI** ([archivo .pbix](dashboard/dashboard_ventas_lacteos.pbix)): ajuste del separador decimal en Power Query, medidas DAX y dos páginas de visualización.
+3. **Dashboard en Power BI** ([archivo .pbix](dashboard/analisis-ventas-lacteos-2024.pbix)): ajuste del separador decimal en Power Query, medidas DAX y dos páginas de visualización.
 
-![Geografía y clientes](dashboard/pagina1_geografia_clientes.png)
-![Quesos vs. Mantequilla](dashboard/pagina2_quesos_vs_mantequilla.png)
+![Geografía y clientes](dashboard/Geograf%C3%ADa%20y%20clientes.png)
+
+![Quesos vs. Mantequilla](dashboard/Quesos%20vs%20Mantequilla.png)
 
 ## Hallazgos
 
